@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1358399423 source:c:\users\giot\desktop\2013\c++\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+
